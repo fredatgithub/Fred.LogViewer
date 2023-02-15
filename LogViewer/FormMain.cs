@@ -22,7 +22,7 @@ namespace LogViewer
 
     }
 
-    private void quitterToolStripMenuItem_Click(object sender, EventArgs e)
+    private void QuitterToolStripMenuItem_Click(object sender, EventArgs e)
     {
       Application.Exit();
     }
